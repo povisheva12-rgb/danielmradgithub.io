@@ -1,0 +1,120 @@
+body {
+    background-color: rgb(213, 212, 212);
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(129, 201, 243);
+
+
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.a1 {
+
+    font-weight: bold;
+
+}
+
+#img1 {
+    margin-left: 15px;
+    width: 30px;
+}
+
+.main-contаiner {
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    align-items: center;
+
+}
+
+#img2 {
+    height: 230px;
+    border-radius: 12px;
+}
+
+.text-1 {
+    margin-left: 15px;
+
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+
+}
+
+.text-2 {
+    font-size: 16px;
+}
+
+.gallary {
+    margin: 20px;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+.gallary-items {
+    display: flex;
+    justify-content: space-between;
+}
+
+.gall-photo {
+    width: 300px;
+    border-radius: 12px;
+}
+
+.footer {
+    background-color: rgb(42, 43, 49);
+    align-items: center;
+    text-align: center;
+    padding-top: 5px;
+    margin-bottom: 35px;
+}
+
+.web {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 5px;
+}
+
+.img3 {
+    width: 20px;
+}
+
+.a2 {
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    font-size: 15px;
+}
+
+.text-51 {
+    margin-top: 25px;
+    color: white;
+    font-size: 15px;
+}
